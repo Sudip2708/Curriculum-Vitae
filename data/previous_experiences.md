@@ -1,4 +1,4 @@
-# Dalibor Sova
+# [Dalibor Sova](data/cv_photo.jpg)
 **Předchozí pracovní zkušenosti**
 
 ---

@@ -1,3 +1,5 @@
+![Dalibor Sova](data/cv_photo.jpg)
+
 # Dalibor Sova
 **Programátor v jazyce Python**
 
@@ -82,7 +84,7 @@ Jsem samostatný a motivovaný programátor specializující se na Python s vá�
 ### Kontaktní informace
 - Telefon: +420 704 564 595
 - Email: daliborsova@seznam.cz
-- LinkedIn: [dalibor-sudip-sova](www.linkedin.com/in/dalibor-sudip-sova)
+- LinkedIn: [dalibor-sudip-sova](https://www.linkedin.com/in/dalibor-sudip-sova)
 - 
 ---
 
