@@ -1,4 +1,4 @@
-# [Dalibor Sova](data/cv_photo.jpg)
+# [Dalibor Sova](cv_photo.jpg)
 **Předchozí pracovní zkušenosti**
 
 ---
@@ -20,15 +20,15 @@
 *Leden 2019 – Duben 2019*
 
 **Skladník (obsluha VZV Jungheinrich EKX 410, EFG115)**  
-*Madal Bal, Müliwisstrasse 139, 05467 Fisibach, Švýcarsko* <img src="data/switzerland.png" alt="Switzerland Flag" width="20">  
+*Madal Bal, Müliwisstrasse 139, 05467 Fisibach, Švýcarsko* <img src="switzerland.png" alt="Switzerland Flag" width="20">  
 *Červenec 2018 – Prosinec 2018*
 
 **Barista (kavárna Oslo)**  
 *The Fragrance of the Heart Fridtjof Nansens plass 2, 00160 Oslo, Norsko*  
-*Březen 2018 – Červenec 2018* <img src="data/norway.jpg" alt="Norway Flag" width="20">
+*Březen 2018 – Červenec 2018* <img src="norway.jpg" alt="Norway Flag" width="20">
 
 **Kuchař (vegetariánská restaurace v NY)**  
-*The Oneness-Fountain-Heart, 157-19 72nd Ave, 11367 Flushing, USA* <img src="data/usa.jpg" alt="USA Flag" width="20">  
+*The Oneness-Fountain-Heart, 157-19 72nd Ave, 11367 Flushing, USA* <img src="usa.jpg" alt="USA Flag" width="20">  
 *Srpen 2017 – Listopad 2017*
 
 **Skladník**  
@@ -36,7 +36,7 @@
 *Duben 2017 – Květen 2017*
 
 **Číšník (vegetariánská restaurace v San Francisku)**  
-*Ananda Fuara, 1298 Market St, 94102 San Francisco, CA, USA* <img src="data/usa.jpg" alt="USA Flag" width="20">    
+*Ananda Fuara, 1298 Market St, 94102 San Francisco, CA, USA* <img src="usa.jpg" alt="USA Flag" width="20">    
 *Červenec 2016 – Srpen 2016* 
 
 **Servisní a zákaznické středisko Madal Bal**  
