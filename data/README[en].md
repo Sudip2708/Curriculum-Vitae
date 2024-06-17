@@ -89,4 +89,4 @@ I am a self-sufficient and motivated programmer specializing in Python with a pa
 ---
 
 ### Previous Work Experience
-For details about my previous work experiences unrelated to programming, please visit [this link](data/previous_experiences.md).
+For details about my previous work experiences unrelated to programming, please visit [this link](previous_experiences.md).

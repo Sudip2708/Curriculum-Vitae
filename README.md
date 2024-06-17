@@ -1,7 +1,7 @@
 ![Dalibor Sova](data/cv_photo.jpg)
 
 # Dalibor Sova
-[**Programátor v jazyce Python**](https://youtu.be/KOqlBM_7sdk)  
+**Programátor v jazyce Python**  [*(prezentační video)*](https://youtu.be/KOqlBM_7sdk)
 
 
 ---
