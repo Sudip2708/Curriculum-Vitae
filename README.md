@@ -1,9 +1,11 @@
 ![Dalibor Sova](data/cv_photo.jpg)
 
 # Dalibor Sova
-[**Programátor v jazyce Python**](https://youtu.be/KOqlBM_7sdk)
+[**Programátor v jazyce Python**](https://youtu.be/KOqlBM_7sdk)  
+
 
 ---
+[[*switch to Englis*]](data/README[en].md)
 
 
 ### Profil
@@ -15,7 +17,7 @@ Jsem samostatný a motivovaný programátor specializující se na Python s vá�
 - Python
 - Django
 - Flask
-- HTML, CSS
+- HTML, CSS, JS
 - Práce s databázemi
 - Schopnost rychle se učit a adaptovat na nové technologie
 - Samostatnost a schopnost online komunikace
@@ -89,4 +91,4 @@ Jsem samostatný a motivovaný programátor specializující se na Python s vá�
 ---
 
 ### Předchozí pracovní zkušenosti
-Pro podrobnosti o mých předchozích pracovních zkušenostech, které nesouvisejí s programováním, navštivte [tento odkaz](data/previous_experiences.md).
+Pro podrobnosti o mých předchozích pracovních zkušenostech, které nesouvisejí s programováním, navštivte [tento odkaz](data/predchozi_zkusenosti.md).
