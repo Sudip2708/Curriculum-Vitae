@@ -12,7 +12,7 @@ I am a self-sufficient and motivated programmer specializing in Python with a pa
 ---
 
 ### Key Skills
-- Python
+- Python  
 - Django
 - Flask
 - HTML, CSS, JS
@@ -29,25 +29,43 @@ I am a self-sufficient and motivated programmer specializing in Python with a pa
 *December 2023 – June 2024*  
 - Completed a trial task in Django
 - Created a website for managing articles with categories and tags
-- Learned Django in-depth, including best practices and structural principles
+- Learned Django in-depth, including best practices and structural principles  
+<img src="icons/python.jpg" alt="Python Icon" width="20">
+<img src="icons/django.png" alt="Django Icon" width="20">
+<img src="icons/sqlite.jpg" alt="SQlite Icon" width="20">
+<img src="icons/html.jpg" alt="HTML Icon" width="21">
+<img src="icons/css.jpg" alt="CSS Icon" width="21">
+<img src="icons/js.jpg" alt="JS Icon" width="21">
+
 
 [**Web Developer (Flask)**](https://github.com/Sudip2708/poustovnik-english)  
 *Freelancer*  
 *August 2023 – November 2023*  
 - Created a website in Flask for user and text post management
-- Implemented site localization into Czech and content translation using Google Translator
+- Implemented site localization into Czech and content translation using Google Translator  
+<img src="icons/python.jpg" alt="Python Icon" width="20">
+<img src="icons/flask.png" alt="Flask Icon" width="20">
+<img src="icons/sqlite.jpg" alt="SQlite Icon" width="20">
+<img src="icons/html.jpg" alt="HTML Icon" width="21">
+<img src="icons/css.jpg" alt="CSS Icon" width="21">
+
 
 [**Web Application Programming Course**](data/Osveceni_IT_Network_small.jpg)  
 *IT Network*  
 *April 2023 – July 2023*  
 - Learned the basics of web programming in Python
-- Worked with HTML, CSS, and databases
+- Worked with HTML, CSS, and databases  
+<img src="icons/python.jpg" alt="Python Icon" width="20">
+<img src="icons/html.jpg" alt="HTML Icon" width="21">
+<img src="icons/css.jpg" alt="CSS Icon" width="21">
+<img src="icons/sql.jpg" alt="SQL Icon" width="20">
 
 [**Python Programmer**](https://github.com/Sudip2708/Python-Exercises)  
 *Freelancer*  
 *January 2022 – April 2023*  
 - Learned Python using materials by Andrej Blaho
-- Created the game Orbital, a simulation of the solar system
+- Created the game Orbital, a simulation of the solar system  
+<img src="icons/python.jpg" alt="Python Icon" width="20">
 
 ---
 
@@ -63,14 +81,11 @@ I am a self-sufficient and motivated programmer specializing in Python with a pa
 
 ### Projects
 
-[**Orbital**](https://github.com/Sudip2708/Orbital-0.7)
-- A game simulating the solar system, created during Python studies
+[**DjangoBlogWeb**](https://github.com/Sudip2708/DjangoBlogWeb) - A website for managing articles in Django, including categories and tags  
 
-[**Poustovnik**](https://github.com/Sudip2708/poustovnik-english)
-- A web application in Flask for user and post management, including localization and translation
+[**Poustovnik**](https://github.com/Sudip2708/poustovnik-english) - A web application in Flask for user and post management, including localization and translation  
 
-[**DjangoBlogWeb**](https://github.com/Sudip2708/DjangoBlogWeb)
-- A website for managing articles in Django, including categories and tags
+[**Orbital**](https://github.com/Sudip2708/Orbital-0.7) - A game simulating the solar system, created during Python studies  
 
 ---
 

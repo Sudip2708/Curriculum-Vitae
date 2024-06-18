@@ -6,6 +6,7 @@
 **Security Guard (learned Python during this time)**  
 *Fluorit CZ a.s., Důlní 508, 41510 Teplice*  
 *July 2021 – March 2023*  
+<img src="icons/python.jpg" alt="Python Icon" width="20">
 
 **Driver**  
 *Spokojený Pes, Černokostelecká 2246, 25101 Říčany*  
@@ -20,15 +21,15 @@
 *January 2019 – April 2019*
 
 **Warehouse Worker (Jungheinrich EKX 410, EFG115 Operator)**  
-*Madal Bal, Müliwisstrasse 139, 05467 Fisibach, Switzerland* <img src="switzerland.png" alt="Switzerland Flag" width="20">  
+*Madal Bal, Müliwisstrasse 139, 05467 Fisibach, Switzerland* <img src="flags/switzerland.png" alt="Switzerland Flag" width="20">  
 *July 2018 – December 2018*
 
 **Barista (Oslo Cafe)**  
-*The Fragrance of the Heart Fridtjof Nansens plass 2, 00160 Oslo, Norway* <img src="norway.jpg" alt="Norway Flag" width="20">  
+*The Fragrance of the Heart Fridtjof Nansens plass 2, 00160 Oslo, Norway* <img src="flags/norway.jpg" alt="Norway Flag" width="20">  
 *March 2018 – July 2018*
 
 **Cook (vegetarian restaurant in NY)**  
-*The Oneness-Fountain-Heart, 157-19 72nd Ave, 11367 Flushing, USA* <img src="usa.jpg" alt="USA Flag" width="20">  
+*The Oneness-Fountain-Heart, 157-19 72nd Ave, 11367 Flushing, USA* <img src="flags/usa.jpg" alt="USA Flag" width="20">  
 *August 2017 – November 2017*
 
 **Warehouse Worker**  
@@ -36,12 +37,16 @@
 *April 2017 – May 2017*
 
 **Waiter (vegetarian restaurant in San Francisco)**  
-*Ananda Fuara, 1298 Market St, 94102 San Francisco, CA, USA* <img src="usa.jpg" alt="USA Flag" width="20">    
+*Ananda Fuara, 1298 Market St, 94102 San Francisco, CA, USA* <img src="flags/usa.jpg" alt="USA Flag" width="20">    
 *July 2016 – August 2016*
 
 **Service and Customer Center Madal Bal**  
 *Madal Bal a.s. Letovská 532, 19900 Prague 18*  
-*November 2004 – March 2017*
+*November 2004 – March 2017*  
+<img src="icons/word.png" alt="Word Icon" width="20">
+<img src="icons/excell.png" alt="Excell Icon" width="20">
+<img src="icons/photoshop.png" alt="Photoshop Icon" width="18">
+<img src="icons/indesing.jpg" alt="Indesing Icon" width="18">
 
 **Warehouse Worker**  
 *Madal Bal a.s. Průmyslová zóna Příluky, 76001 Zlín*  
@@ -49,15 +54,24 @@
 
 **Graphic Designer**  
 *Madal Bal a.s. Přemyšlenská 220/78, 18200 Prague 8*  
-*June 2002 – November 2003*
+*June 2002 – November 2003*  
+<img src="icons/word.png" alt="Word Icon" width="20">
+<img src="icons/excell.png" alt="Excell Icon" width="20">
+<img src="icons/photoshop.png" alt="Photoshop Icon" width="18">
+<img src="icons/indesing.jpg" alt="Indesing Icon" width="18">
+<img src="icons/illustrator.png" alt="Illustrator Icon" width="18">
+
 
 **Assistant**  
 *Rubicon Praha, s.r.o. Lomnického 6, 14000 Prague 4*  
-*July 2001 – June 2002*
+*July 2001 – June 2002*  
+<img src="icons/word.png" alt="Word Icon" width="20">
+<img src="icons/excell.png" alt="Excell Icon" width="20">
 
 **Librarian (civil service position)**  
 *Regional Library, Lípová 796/13, 41501 Teplice*  
-*July 1999 – January 2001*
+*July 1999 – January 2001*  
+<img src="icons/word.png" alt="Word Icon" width="20">
 
 **Cook**  
 *Restaurant Podletná, U Kamenných Lázní 557, 41501 Teplice*  

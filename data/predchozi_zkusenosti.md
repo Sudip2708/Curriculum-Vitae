@@ -6,6 +6,7 @@
 **Vrátný (zde jsem se učil Python)**  
 *Fluorit CZ a.s., Důlní 508, 41510 Teplice*  
 *Červenec 2021 – Březen 2023*  
+<img src="icons/python.jpg" alt="Python Icon" width="20">
 
 **Řidič**  
 *Spokojený Pes, Černokostelecká 2246, 25101 Říčany*  
@@ -20,15 +21,15 @@
 *Leden 2019 – Duben 2019*
 
 **Skladník (obsluha VZV Jungheinrich EKX 410, EFG115)**  
-*Madal Bal, Müliwisstrasse 139, 05467 Fisibach, Švýcarsko* <img src="switzerland.png" alt="Switzerland Flag" width="20">  
+*Madal Bal, Müliwisstrasse 139, 05467 Fisibach, Švýcarsko* <img src="flags/switzerland.png" alt="Switzerland Flag" width="20">  
 *Červenec 2018 – Prosinec 2018*
 
 **Barista (kavárna Oslo)**  
-*The Fragrance of the Heart Fridtjof Nansens plass 2, 00160 Oslo, Norsko*  
-*Březen 2018 – Červenec 2018* <img src="norway.jpg" alt="Norway Flag" width="20">
+*The Fragrance of the Heart Fridtjof Nansens plass 2, 00160 Oslo, Norsko* <img src="flags/norway.jpg" alt="Norway Flag" width="20">  
+*Březen 2018 – Červenec 2018*
 
 **Kuchař (vegetariánská restaurace v NY)**  
-*The Oneness-Fountain-Heart, 157-19 72nd Ave, 11367 Flushing, USA* <img src="usa.jpg" alt="USA Flag" width="20">  
+*The Oneness-Fountain-Heart, 157-19 72nd Ave, 11367 Flushing, USA* <img src="flags/usa.jpg" alt="USA Flag" width="20">  
 *Srpen 2017 – Listopad 2017*
 
 **Skladník**  
@@ -36,12 +37,16 @@
 *Duben 2017 – Květen 2017*
 
 **Číšník (vegetariánská restaurace v San Francisku)**  
-*Ananda Fuara, 1298 Market St, 94102 San Francisco, CA, USA* <img src="usa.jpg" alt="USA Flag" width="20">    
+*Ananda Fuara, 1298 Market St, 94102 San Francisco, CA, USA* <img src="flags/usa.jpg" alt="USA Flag" width="20">    
 *Červenec 2016 – Srpen 2016* 
 
 **Servisní a zákaznické středisko Madal Bal**  
 *Madal Bal a.s. Letovská 532, 19900 Praha 18*  
-*Listopad 2004 – Březen 2017*
+*Listopad 2004 – Březen 2017*  
+<img src="icons/word.png" alt="Word Icon" width="20">
+<img src="icons/excell.png" alt="Excell Icon" width="20">
+<img src="icons/photoshop.png" alt="Photoshop Icon" width="18">
+<img src="icons/indesing.jpg" alt="Indesing Icon" width="18">
 
 **Skladník**  
 *Madal Bal a.s. Průmyslová zóna Příluky, 76001 Zlín*  
@@ -49,15 +54,23 @@
 
 **Grafik**  
 *Madal Bal a.s. Přemyšlenská 220/78, 18200 Praha 8*  
-*Červen 2002 – Listopad 2003*
+*Červen 2002 – Listopad 2003*  
+<img src="icons/word.png" alt="Word Icon" width="20">
+<img src="icons/excell.png" alt="Excell Icon" width="20">
+<img src="icons/photoshop.png" alt="Photoshop Icon" width="18">
+<img src="icons/indesing.jpg" alt="Indesing Icon" width="18">
+<img src="icons/illustrator.png" alt="Illustrator Icon" width="18">
 
 **Asistent**  
 *Rubicon Praha, s.r.o. Lomnického 6, 14000 Praha 4*  
-*Červenec 2001 – Červen 2002*
+*Červenec 2001 – Červen 2002*  
+<img src="icons/word.png" alt="Word Icon" width="20">
+<img src="icons/excell.png" alt="Excell Icon" width="20">
 
 **Knihovník (pozice vykonávaná v rámci civilní služby)**  
 *Regionální Knihovna, Lípová 796/13, 41501 Teplice*  
-*Červenec 1999 – Leden 2001*
+*Červenec 1999 – Leden 2001*  
+<img src="icons/word.png" alt="Word Icon" width="20">
 
 **Kuchař**  
 *Restaurace Podletná, U Kamenných Lázní 557, 41501 Teplice*  
