@@ -32,12 +32,7 @@ Jsem samostatný a motivovaný programátor specializující se na Python s vá�
 - Vypracování zkušebního úkolu v Django
 - Vytvoření webových stránek pro správu článků s kategoriemi a tagy
 - Učení se Django do hloubky, včetně nejlepší praxe a strukturálních principů  
-<img src="data/icons/python.jpg" alt="Python Icon" width="20">
-<img src="data/icons/django.png" alt="Django Icon" width="20">
-<img src="data/icons/sqlite.jpg" alt="SQlite Icon" width="20">
-<img src="data/icons/html.jpg" alt="HTML Icon" width="21">
-<img src="data/icons/css.jpg" alt="CSS Icon" width="21">
-<img src="data/icons/js.jpg" alt="JS Icon" width="21">
+<img src="data/icons/python.jpg" alt="Python Icon" width="20"> <img src="data/icons/django.png" alt="Django Icon" width="20"> <img src="data/icons/sqlite.jpg" alt="SQlite Icon" width="20"> <img src="data/icons/html.jpg" alt="HTML Icon" width="21"> <img src="data/icons/css.jpg" alt="CSS Icon" width="21"> <img src="data/icons/js.jpg" alt="JS Icon" width="21">
 
        
 [**Web Developer (Flask)**](https://github.com/Sudip2708/poustovnik-english)  
@@ -45,11 +40,7 @@ Jsem samostatný a motivovaný programátor specializující se na Python s vá�
 *Srpen 2023 – Listopad 2023*  
 - Vytvoření webových stránek ve Flasku pro správu uživatelů a textových příspěvků
 - Implementace lokalizace stránek do českého jazyka a překládání obsahu pomocí Google Translatoru  
-<img src="data/icons/python.jpg" alt="Python Icon" width="20">
-<img src="data/icons/flask.png" alt="Flask Icon" width="20">
-<img src="data/icons/sqlite.jpg" alt="SQlite Icon" width="20">
-<img src="data/icons/html.jpg" alt="HTML Icon" width="21">
-<img src="data/icons/css.jpg" alt="CSS Icon" width="21">
+<img src="data/icons/python.jpg" alt="Python Icon" width="20"> <img src="data/icons/flask.png" alt="Flask Icon" width="20"> <img src="data/icons/sqlite.jpg" alt="SQlite Icon" width="20"> <img src="data/icons/html.jpg" alt="HTML Icon" width="21"> <img src="data/icons/css.jpg" alt="CSS Icon" width="21">
 
 
 [**Kurz programování webových aplikací**](data/Osveceni_IT_Network_small.jpg)  
@@ -57,10 +48,7 @@ Jsem samostatný a motivovaný programátor specializující se na Python s vá�
 *Duben 2023 – Červenec 2023*  
 - Naučení základů webového programování v Pythonu
 - Práce s HTML, CSS a databázemi  
-<img src="data/icons/python.jpg" alt="Python Icon" width="20">
-<img src="data/icons/html.jpg" alt="HTML Icon" width="21">
-<img src="data/icons/css.jpg" alt="CSS Icon" width="21">
-<img src="data/icons/sql.jpg" alt="SQL Icon" width="20">
+<img src="data/icons/python.jpg" alt="Python Icon" width="20"> <img src="data/icons/html.jpg" alt="HTML Icon" width="21"> <img src="data/icons/css.jpg" alt="CSS Icon" width="21"> <img src="data/icons/sql.jpg" alt="SQL Icon" width="20">
 
 
 [**Programátor Python**](https://github.com/Sudip2708/Python-Exercises)  
