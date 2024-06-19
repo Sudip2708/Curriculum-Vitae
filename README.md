@@ -33,11 +33,12 @@ Jsem samostatný a motivovaný programátor specializující se na Python s vá�
 - Vytvoření webových stránek pro správu článků s kategoriemi a tagy
 - Učení se Django do hloubky, včetně nejlepší praxe a strukturálních principů  
        
-[**Web Developer (Flask)**](https://github.com/Sudip2708/poustovnik-english)  <img src="data/icons/python.jpg" alt="Python Icon" width="20"> <img src="data/icons/flask.png" alt="Flask Icon" width="20"> <img src="data/icons/sqlite.jpg" alt="SQlite Icon" width="20"> <img src="data/icons/html.jpg" alt="HTML Icon" width="21"> <img src="data/icons/css.jpg" alt="CSS Icon" width="21">  
+[**Web Developer (Flask)**](https://github.com/Sudip2708/poustovnik-english)  <img src="data/icons/python.jpg" alt="Python Icon" width="20"> <img src="data/icons/flask.png" alt="Flask Icon" width="20"> <img src="data/icons/sqlite.jpg" alt="SQlite Icon" width="20"> <img src="data/icons/html.jpg" alt="HTML Icon" width="21"> <img src="data/icons/css.jpg" alt="CSS Icon" width="21"> <img src="data/icons/ubuntu.jpg" alt="Ubuntu Icon" width="20">   
 *Freelancer*  
 *Srpen 2023 – Listopad 2023*  
 - Vytvoření webových stránek ve Flasku pro správu uživatelů a textových příspěvků
 - Implementace lokalizace stránek do českého jazyka a překládání obsahu pomocí Google Translatoru  
+- Nasazení na Linux serveru Linode  
 
 [**Kurz programování webových aplikací**](data/Osveceni_IT_Network_small.jpg)  <img src="data/icons/python.jpg" alt="Python Icon" width="20"> <img src="data/icons/html.jpg" alt="HTML Icon" width="21"> <img src="data/icons/css.jpg" alt="CSS Icon" width="21"> <img src="data/icons/sql.jpg" alt="SQL Icon" width="20">  
 *IT Network*  
