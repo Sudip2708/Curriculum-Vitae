@@ -14,11 +14,11 @@ Jsem samostatný a motivovaný programátor specializující se na Python s vá�
 ---
 
 ### Klíčové dovednosti
-- Python
-- Django
-- Flask
+- Python, Django, Flask
 - HTML, CSS, JS
 - Práce s databázemi
+- Linux server, Ubuntu, Bash
+- Docker
 - Schopnost rychle se učit a adaptovat na nové technologie
 - Samostatnost a schopnost online komunikace
 
@@ -26,21 +26,21 @@ Jsem samostatný a motivovaný programátor specializující se na Python s vá�
 
 ### Pracovní zkušenosti
 
-[**Django Web Developer**](https://github.com/Sudip2708/DjangoBlogWeb)  <img src="data/icons/python.jpg" alt="Python Icon" width="20"> <img src="data/icons/django.png" alt="Django Icon" width="20"> <img src="data/icons/sqlite.jpg" alt="SQlite Icon" width="20"> <img src="data/icons/html.jpg" alt="HTML Icon" width="21"> <img src="data/icons/css.jpg" alt="CSS Icon" width="21"> <img src="data/icons/js.jpg" alt="JS Icon" width="21">  
+[**Django Web Developer**](https://github.com/Sudip2708/DjangoBlogWeb)  <img src="data/icons/python.jpg" alt="Python Icon" width="20"> <img src="data/icons/django.png" alt="Django Icon" width="20"> <img src="data/icons/sqlite.jpg" alt="SQlite Icon" width="20"> <img src="data/icons/html.jpg" alt="HTML Icon" width="21"> <img src="data/icons/css.jpg" alt="CSS Icon" width="21"> <img src="data/icons/js.jpg" alt="JS Icon" width="21"> <img src="data/icons/docker.png" alt="Docker Icon" width="21">  
 *Freelancer*  
 *Prosinec 2023 – Červen 2024*  
 - Vypracování zkušebního úkolu v Django
 - Vytvoření webových stránek pro správu článků s kategoriemi a tagy
 - Učení se Django do hloubky, včetně nejlepší praxe a strukturálních principů  
        
-[**Web Developer (Flask)**](https://github.com/Sudip2708/poustovnik-english)  <img src="data/icons/python.jpg" alt="Python Icon" width="20"> <img src="data/icons/flask.png" alt="Flask Icon" width="20"> <img src="data/icons/sqlite.jpg" alt="SQlite Icon" width="20"> <img src="data/icons/html.jpg" alt="HTML Icon" width="21"> <img src="data/icons/css.jpg" alt="CSS Icon" width="21"> <img src="data/icons/ubuntu.jpg" alt="Ubuntu Icon" width="20">   
+[**Web Developer (Flask)**](https://github.com/Sudip2708/poustovnik-english)  <img src="data/icons/python.jpg" alt="Python Icon" width="20"> <img src="data/icons/flask.png" alt="Flask Icon" width="20"> <img src="data/icons/sqlite.jpg" alt="SQlite Icon" width="20"> <img src="data/icons/html.jpg" alt="HTML Icon" width="21"> <img src="data/icons/css.jpg" alt="CSS Icon" width="21"> <img src="data/icons/bash.png" alt="Bash Icon" width="20"> <img src="data/icons/linux.png" alt="Linux Icon" width="20"> <img src="data/icons/ubuntu.jpg" alt="Ubuntu Icon" width="20">    
 *Freelancer*  
 *Srpen 2023 – Listopad 2023*  
 - Vytvoření webových stránek ve Flasku pro správu uživatelů a textových příspěvků
 - Implementace lokalizace stránek do českého jazyka a překládání obsahu pomocí Google Translatoru  
-- Nasazení na Linux serveru Linode  
+- Nasazení do produkčního prostředí na Linux serveru Linode  
 
-[**Kurz programování webových aplikací**](data/Osveceni_IT_Network_small.jpg)  <img src="data/icons/python.jpg" alt="Python Icon" width="20"> <img src="data/icons/html.jpg" alt="HTML Icon" width="21"> <img src="data/icons/css.jpg" alt="CSS Icon" width="21"> <img src="data/icons/sql.jpg" alt="SQL Icon" width="20">  
+[**Kurz programování webových aplikací**](data/Osveceni_IT_Network_small.jpg)  <img src="data/icons/python.jpg" alt="Python Icon" width="20"> <img src="data/icons/html.jpg" alt="HTML Icon" width="21"> <img src="data/icons/css.jpg" alt="CSS Icon" width="21"> <img src="data/icons/database.png" alt="Database Icon" width="20">  
 *IT Network*  
 *Duben 2023 – Červenec 2023*  
 - Naučení základů webového programování v Pythonu

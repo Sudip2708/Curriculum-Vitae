@@ -47,6 +47,8 @@
 <img src="icons/excell.png" alt="Excell Icon" width="20">
 <img src="icons/photoshop.png" alt="Photoshop Icon" width="18">
 <img src="icons/indesing.jpg" alt="Indesing Icon" width="18">
+<img src="icons/premiere.png" alt="Premiere Icon" width="18">
+<img src="icons/audition.png" alt="Audition Icon" width="18">
 
 **Warehouse Worker**  
 *Madal Bal a.s. Průmyslová zóna Příluky, 76001 Zlín*  
