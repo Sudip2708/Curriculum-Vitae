@@ -31,12 +31,13 @@ I am a self-sufficient and motivated programmer specializing in Python with a pa
 - Created a website for managing articles with categories and tags
 - Learned Django in-depth, including best practices and structural principles  
 
-[**Web Developer (Flask)**](https://github.com/Sudip2708/poustovnik-english)  <img src="icons/python.jpg" alt="Python Icon" width="20"> <img src="icons/flask.png" alt="Flask Icon" width="20"> <img src="icons/sqlite.jpg" alt="SQlite Icon" width="20"> <img src="icons/html.jpg" alt="HTML Icon" width="21"> <img src="icons/css.jpg" alt="CSS Icon" width="21"> <img src="icons/bash.png" alt="Bash Icon" width="20"> <img src="icons/linux.png" alt="Linux Icon" width="20"> <img src="icons/ubuntu.jpg" alt="Ubuntu Icon" width="20">    
+[**Web Developer (Flask)**](https://github.com/Sudip2708/poustovnik-english)  <img src="icons/python.jpg" alt="Python Icon" width="20"> <img src="icons/flask.png" alt="Flask Icon" width="20"> <img src="icons/sqlite.jpg" alt="SQlite Icon" width="20"> <img src="icons/html.jpg" alt="HTML Icon" width="21"> <img src="icons/css.jpg" alt="CSS Icon" width="21"> <img src="icons/bash.png" alt="Bash Icon" width="20"> <img src="icons/linux.png" alt="Linux Icon" width="20"> <img src="icons/ubuntu.jpg" alt="Ubuntu Icon" width="20"> <img src="icons/g-seo.png" alt="GoogleSEO Icon" width="20">    
 *Freelancer*  
 *August 2023 – November 2023*  
 - Created a website in Flask for user and text post management
 - Implemented site localization into Czech and content translation using Google Translator  
 - Deployment to a Production Environment on a Linode Linux Server  
+- Achieved top ranking on Google search results through successful SEO optimization  
 
 [**Web Application Programming Course**](data/Osveceni_IT_Network_small.jpg)  <img src="icons/python.jpg" alt="Python Icon" width="20"> <img src="icons/html.jpg" alt="HTML Icon" width="21"> <img src="icons/css.jpg" alt="CSS Icon" width="21"> <img src="icons/database.png" alt="Database Icon" width="20">  
 *IT Network*  
