@@ -31,7 +31,8 @@ Jsem samostatný a motivovaný programátor specializující se na Python s vá�
 *Prosinec 2023 – Červen 2024*  
 - Vypracování zkušebního úkolu v Django
 - Vytvoření webových stránek pro správu článků s kategoriemi a tagy
-- Učení se Django do hloubky, včetně nejlepší praxe a strukturálních principů  
+- Učení se Django do hloubky, včetně nejlepší praxe a strukturálních principů
+- Kontejnerizace aplikace pomocí Dockeru a publikace obrazu na DockerHubu
        
 [**Web Developer (Flask)**](https://github.com/Sudip2708/poustovnik-english)  <img src="data/icons/python.jpg" alt="Python Icon" width="20"> <img src="data/icons/flask.png" alt="Flask Icon" width="20"> <img src="data/icons/sqlite.jpg" alt="SQlite Icon" width="20"> <img src="data/icons/html.jpg" alt="HTML Icon" width="21"> <img src="data/icons/css.jpg" alt="CSS Icon" width="21"> <img src="data/icons/linux.png" alt="Linux Icon" width="20"> <img src="data/icons/ubuntu.jpg" alt="Ubuntu Icon" width="20"> <img src="data/icons/bash.png" alt="Bash Icon" width="20"> <img src="data/icons/g-seo.png" alt="GoogleSEO Icon" width="20">     
 *Freelancer*  
