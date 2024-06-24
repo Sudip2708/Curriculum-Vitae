@@ -23,7 +23,7 @@ Jsem samostatný a motivovaný programátor specializující se na Python s vá�
 
 
 ### Klíčové dovednosti
-- Full Stack Developer, Frontend Developer, Backend Developer
+- Full Stack Developer
 - Základy UX/UI designu
 - Psaní technické dokumentace
 - Schopnost rychle se učit a adaptovat na nové technologie
