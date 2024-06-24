@@ -13,13 +13,21 @@ Jsem samostatný a motivovaný programátor specializující se na Python s vá�
 
 ---
 
-### Klíčové dovednosti
-- Python, Django, Flask
-- HTML, CSS, JS
+### Klíčové znalosti
+- Python, Django, Flask, HTML, CSS, JS
 - Práce s databázemi
+- Docker, Git
 - Linux server, Ubuntu, Bash
-- Docker
+- Deployment, SEO, Google Analytics
+- Adobe: Photoshop, InDesign, Illustrator, Premiere, Audition
+
+
+### Klíčové dovednosti
+- Full Stack Developer, Frontend Developer, Backend Developer
+- Základy UX/UI designu
+- Psaní technické dokumentace
 - Schopnost rychle se učit a adaptovat na nové technologie
+- Schopnost identifikovat a vyřešit problémy
 - Samostatnost a schopnost online komunikace
 
 ---
@@ -79,7 +87,7 @@ Jsem samostatný a motivovaný programátor specializující se na Python s vá�
 
 ### Osobní vlastnosti
 - Přátelský a komunikativní
-- Schopný najít řešení a dohodu
+- Cit pro druhé a schopnost hledání shody
 - Důsledný a spolehlivý
 
 ---

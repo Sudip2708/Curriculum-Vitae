@@ -11,14 +11,22 @@ I am a self-sufficient and motivated programmer specializing in Python with a pa
 
 ---
 
+### Key Knowledge
+- Python, Django, Flask, HTML, CSS, JS
+- Database Management
+- Docker, Git
+- Linux Server, Ubuntu, Bash
+- Deployment, SEO, Google Analytics
+- Adobe: Photoshop, InDesign, Illustrator, Premiere, Audition
+
+
 ### Key Skills
-- Python, Django, Flask
-- HTML, CSS, JS
-- Database management
-- Linux server, Ubuntu, Bash
-- Docker
-- Ability to quickly learn and adapt to new technologies
-- Independence and online communication skills
+- Full Stack Developer
+- Basic UX/UI Design
+- Writing Technical Documentation
+- Ability to Learn and Adapt to New Technologies Quickly
+- Problem Identification and Resolution
+- Self-sufficiency and Online Communication Skills
 
 ---
 
@@ -76,7 +84,7 @@ I am a self-sufficient and motivated programmer specializing in Python with a pa
 
 ### Personal Qualities
 - Friendly and communicative
-- Able to find solutions and reach agreements
+- Empathy for others and the ability to seek consensus
 - Thorough and reliable
 
 ---
