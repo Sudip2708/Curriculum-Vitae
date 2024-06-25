@@ -15,7 +15,7 @@ Jsem samostatný a motivovaný programátor specializující se na Python s vá�
 
 ### Klíčové znalosti
 - Python, Django, Flask, HTML, CSS, JS
-- Práce s databázemi
+- Práce s databázemi, Testování
 - Docker, Git
 - Linux server, Ubuntu, Bash
 - Deployment, SEO, Google Analytics
