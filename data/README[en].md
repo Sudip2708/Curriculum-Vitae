@@ -4,7 +4,7 @@
 **Python Programmer**
 
 ---
-[[*switch to Czech*]](../README.md)
+[[*switch to Czech*]](../README.md) • [[*download pdf*]](data/downloads/CV_EN_Dalibor_Sova.pdf) • [[*download word*]](data/downloads/CV_EN_Dalibor_Sova.docx)
 
 ### Profile
 I am a self-sufficient and motivated programmer specializing in Python with a passion for web applications. I possess strong logical thinking and the ability to see the big picture, allowing me to solve problems effectively. I am seeking a fully remote job.

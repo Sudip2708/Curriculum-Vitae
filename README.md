@@ -5,7 +5,7 @@
 
 
 ---
-[[*switch to Englis*]](data/README[en].md)
+[[*switch to Englis*]](data/README[en].md) • [[*stáhnout pdf*]](data/downloads/CV_Dalibor_Sova.pdf) • [[*stáhnout word*]](data/downloads/CV_Dalibor_Sova.docx)
 
 
 ### Profil
