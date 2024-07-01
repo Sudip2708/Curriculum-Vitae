@@ -5,7 +5,7 @@
 
 
 ---
-[[*switch to Englis*]](data/README[en].md) • <a href="data/downloads/CV_Dalibor_Sova.pdf" download="file.zip">[*stáhnout pdf*]</a> • <a href="data/downloads/CV_Dalibor_Sova.docx" download="file.zip">[*stáhnout word*]</a>
+[[*switch to Englis*]](data/README[en].md) • [[*stáhnout pdf*]](data/downloads/CV_CZ_Dalibor_Sova.pdf) • [[*stáhnout word*]](data/downloads/CV_CZ_Dalibor_Sova.docx)
 
 ### Profil
 Jsem samostatný a motivovaný programátor specializující se na Python s vášní pro webové aplikace. Mám silné logické uvažování a schopnost nadhledu, což mi umožňuje efektivně řešit problémy. Hledám práci, kterou lze vykonávat plně z domova.
