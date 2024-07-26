@@ -12,7 +12,8 @@ I am a self-sufficient and motivated programmer specializing in Python with a pa
 ---
 
 ### Key Knowledge
-- Python, Django, Flask, HTML, CSS, JS
+- Python, Django, Flask, Vue
+- HTML, CSS, JS
 - Database Management, Testing
 - Docker, Git
 - Linux Server, Ubuntu, Bash

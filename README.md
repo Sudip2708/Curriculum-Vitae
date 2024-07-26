@@ -5,7 +5,7 @@
 
 
 ---
-[[*switch to Englis*]](data/README[en].md) • [[*stáhnout pdf*]](data/downloads/CV_CZ_Dalibor_Sova.pdf) • [[*stáhnout word*]](data/downloads/CV_CZ_Dalibor_Sova.docx)
+[[*switch to English*]](data/README[en].md) • [[*stáhnout pdf*]](data/downloads/CV_CZ_Dalibor_Sova.pdf) • [[*stáhnout word*]](data/downloads/CV_CZ_Dalibor_Sova.docx)
 
 ### Profil
 Jsem samostatný a motivovaný programátor specializující se na Python s vášní pro webové aplikace. Mám silné logické uvažování a schopnost nadhledu, což mi umožňuje efektivně řešit problémy. Hledám práci, kterou lze vykonávat plně z domova.
@@ -13,7 +13,8 @@ Jsem samostatný a motivovaný programátor specializující se na Python s vá�
 ---
 
 ### Klíčové znalosti
-- Python, Django, Flask, HTML, CSS, JS
+- Python, Django, Flask, Vue
+- HTML, CSS, JS
 - Práce s databázemi, Testování
 - Docker, Git
 - Linux server, Ubuntu, Bash
