@@ -46,7 +46,7 @@
 <img src="icons/word.png" alt="Word Icon" width="20">
 <img src="icons/excell.png" alt="Excell Icon" width="20">
 <img src="icons/photoshop.png" alt="Photoshop Icon" width="18">
-<img src="icons/indesing.jpg" alt="Indesing Icon" width="18">
+<img src="icons/indesign.png" alt="Indesing Icon" width="18">
 <img src="icons/premiere.png" alt="Premiere Icon" width="18">
 <img src="icons/audition.png" alt="Audition Icon" width="18">
 
@@ -60,8 +60,8 @@
 <img src="icons/word.png" alt="Word Icon" width="20">
 <img src="icons/excell.png" alt="Excell Icon" width="20">
 <img src="icons/photoshop.png" alt="Photoshop Icon" width="18">
-<img src="icons/indesing.jpg" alt="Indesing Icon" width="18">
-<img src="icons/illustrator.png" alt="Illustrator Icon" width="18">
+<img src="icons/indesign.png" alt="Indesing Icon" width="18">
+<img src="icons/illustrator.png" alt="Illustrator Icon" width="18.2">
 
 **Asistent**  
 *Rubicon Praha, s.r.o. Lomnického 6, 14000 Praha 4*  
