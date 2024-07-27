@@ -20,7 +20,7 @@ Jsem samostatný a motivovaný programátor specializující se na Python s vá�
 - Linux server, Ubuntu, Bash
 - Deployment, SEO, Google Analytics
 - Adobe: Photoshop, InDesign, Illustrator, Premiere, Audition
-
+- Angličtina B2
 
 ### Klíčové dovednosti
 - Full Stack Developer

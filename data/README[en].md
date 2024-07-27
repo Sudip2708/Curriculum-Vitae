@@ -19,6 +19,7 @@ I am a self-sufficient and motivated programmer specializing in Python with a pa
 - Linux Server, Ubuntu, Bash
 - Deployment, SEO, Google Analytics
 - Adobe: Photoshop, InDesign, Illustrator, Premiere, Audition
+- English B2
 
 
 ### Key Skills
